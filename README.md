@@ -6,5 +6,3 @@
 ```python
 print(1)
 ```
-
-<test>
